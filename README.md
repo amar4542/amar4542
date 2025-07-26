@@ -12,22 +12,59 @@
 - 🎓 Constant learner exploring the world of data and insights
 
 ---
-
 ### 🧰 Languages & Tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Matplotlib_logo.svg/512px-Matplotlib_logo.svg.png" width="40" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30" alt="Seaborn"/>
-  <img src="https://sklearn.org/stable/_static/scikit-learn-logo-small.png" width="40" alt="Scikit-learn"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" alt="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Google_Data_Studio_Logo.png/768px-Google_Data_Studio_Logo.png" width="40" alt="Google Looker Studio"/>
-</p>
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  </a>
 
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  </a>
+
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  </a>
+
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  </a>
+
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" />
+  </a>
+
+  <!-- Seaborn -->
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30" />
+  </a>
+
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+  </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" />
+  </a>
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/power-bi.png" width="40" />
+  </a>
+
+  <!-- Google Looker Studio -->
+  <a href="https://lookerstudio.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Google_Data_Studio_Logo.png/768px-Google_Data_Studio_Logo.png" width="40" />
+  </a>
+</p>
 ---
 
 ### 📌 Projects & Dashboards
