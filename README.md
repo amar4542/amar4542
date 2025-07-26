@@ -15,55 +15,15 @@
 ### 🧰 Languages & Tools:
 
 <p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  </a>
-
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  </a>
-
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  </a>
-
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" />
-  </a>
-
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30" />
-  </a>
-
-  <!-- Scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
-  </a>
-
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" />
-  </a>
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/power-bi.png" width="40" />
-  </a>
-
-  <!-- Google Looker Studio -->
-  <a href="https://lookerstudio.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Google_Data_Studio_Logo.png/768px-Google_Data_Studio_Logo.png" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=plotly&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Seaborn-2c2c2c?style=flat&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30"/>
 </p>
 ---
 
