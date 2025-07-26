@@ -40,11 +40,10 @@
 
 ---
 
-### 📫 Connect with Me
+### 📬 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/m-amara-4542m/)
-- ✉️ [Gmail](mailto:mangalaamara282@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/m-amara-4542m/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mangalaamara282@gmail.com)
 ---
 
 ### 👀 Profile Views  
