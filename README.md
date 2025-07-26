@@ -1,5 +1,5 @@
 # Hi 👋, I'M MANGALA AMARA  
-### A Passionate Data Analyst from Andhra Pradesh, India  
+### A Passionate Data enthusiast 
 
 <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 
