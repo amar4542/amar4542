@@ -1,7 +1,7 @@
 # Hi 👋, I'M MANGALA AMARA  
 ### A Passionate Data Analyst from Andhra Pradesh, India  
 
-![Data Analyst Gif](https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/PC.gif)
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 
 ---
 
