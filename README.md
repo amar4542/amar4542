@@ -30,7 +30,7 @@
 ### 📌 Projects & Dashboards
 
 - [🌼 Iris datset](https://github.com/amar4542/Iris-Dataset)
-- [🚢 Titanic survival prediction](https://github.com/amar4542/Titanic-Survival-Prediction)
+- [🚢 Modern ship survival prediction](https://github.com/amar4542/Titanic-Survival-Prediction)
 - [ Diversity and inclusion dashboard using PowerBI](https://github.com/amar4542/Diversity-Inclusion)
 - [🏏 IPL Data analysis dashboard using PowerBI](https://github.com/amar4542/IPL-Data-Analysis)
 - .[💹 Time series analysis with Cryptocurrency using PowerBI](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency).
