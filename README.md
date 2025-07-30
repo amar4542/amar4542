@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30"/>
 </p>
----
 
 ### 📌 Projects & Dashboards
 
