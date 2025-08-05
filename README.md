@@ -28,7 +28,7 @@
 
 ### 📌 Projects & Dashboards
 
-- [🌼 Iris datset](https://github.com/amar4542/Iris-Dataset)
+- [🌼 Iris Flower_Classification](https://github.com/amar4542/Iris-Dataset)
 - [🚢 Modern ship survival prediction](https://github.com/amar4542/Titanic-Survival-Prediction)
 - [ Diversity and inclusion dashboard using PowerBI](https://github.com/amar4542/Diversity-Inclusion)
 - [🏏 IPL Data analysis dashboard using PowerBI](https://github.com/amar4542/IPL-Data-Analysis)
@@ -41,6 +41,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/m-amara-4542m/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mangalaamara282@gmail.com)
 ---
-
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=amar-1999&label=Profile%20views&color=0e75b6&style=flat)
