@@ -28,42 +28,61 @@
 </style>
 
 
-
-
-<!-- SKILL ICONS -->
+<!-- SKILL ICONS with floating + waving animations -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,github,vscode,mysql,pytorch,tensorflow" />
+  <img
+    src="https://skillicons.dev/icons?i=python,sklearn,github,vscode,mysql,pytorch,tensorflow"
+    style="animation: floatWave 4s ease-in-out infinite; margin-right: 8px;"
+  />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
     alt="Pandas"
     width="48" height="48"
-    style="vertical-align:middle; margin-left:8px;"
+    style="vertical-align:middle; margin-left:8px; animation: floatWave 4s ease-in-out infinite;"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
     alt="NumPy"
     width="48" height="48"
-    style="vertical-align:middle; margin-left:8px;"
+    style="vertical-align:middle; margin-left:8px; animation: floatWave 4s ease-in-out infinite;"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
     alt="Matplotlib"
     width="48" height="48"
-    style="vertical-align:middle; margin-left:8px;"
+    style="vertical-align:middle; margin-left:8px; animation: floatWave 4s ease-in-out infinite;"
   />
   <img
     src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg"
     alt="Seaborn"
     width="48" height="48"
-    style="vertical-align:middle; margin-left:8px;"
+    style="vertical-align:middle; margin-left:8px; animation: floatWave 4s ease-in-out infinite;"
   />
   <img
     src="https://skillicons.dev/icons?i=keras"
     alt="Keras"
     width="48" height="48"
-    style="vertical-align:middle; margin-left:8px;"
+    style="vertical-align:middle; margin-left:8px; animation: floatWave 4s ease-in-out infinite;"
   />
 </p>
+
+<style>
+@keyframes floatWave {
+  0%, 100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  25% {
+    transform: translateY(-6px) rotate(5deg);
+  }
+  50% {
+    transform: translateY(0) rotate(0deg);
+  }
+  75% {
+    transform: translateY(-6px) rotate(-5deg);
+  }
+}
+</style>
+
 
 
 <!-- Typing animation (secondary intro) -->
