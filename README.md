@@ -1,6 +1,18 @@
-<!-- Creative Animated Intro -->
+<!-- Premium Teal-Blue Tech GitHub Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amar+👋;Data+Analyst+📊;ML+%26+AI+Enthusiast+🤖;Lifelong+Learner+📚" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Amar+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+ML;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:0077FF&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=35&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,sklearn,github,html,css,js&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/ITpGQ8l.gif" width="500" alt="animated-workspace" />
 </p>
 
 <!-- Tech Stack Icons with Hover Zoom -->
