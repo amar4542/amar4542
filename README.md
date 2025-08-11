@@ -19,9 +19,11 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="50"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/amar4542/amar4542/main/assets/excel.svg" alt="Excel" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>   
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/>  
+  <img src="./assets/pandas.svg" alt="Pandas" width="40" height="40"/>  
+  <img src="./assets/numpy.svg" alt="NumPy" width="40" height="40"/>  
+  <img src="./assets/excel.svg" alt="Excel" width="40" height="40"/> 
 </p>
 
 
