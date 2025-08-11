@@ -14,7 +14,10 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake-animation" />
 </p>
 
-## Languages & Tools 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:0055FF&height=60&section=header&text=🛠%20Languages%20%26%20Tools&fontSize=28&fontColor=fff" />
+</p>
+
 <!-- SKILL ICONS -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,github,vscode,mysql,pytorch,tensorflow" />
