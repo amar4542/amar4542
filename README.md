@@ -16,8 +16,8 @@
 
 <!-- SKILL ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,github,js,git,vscode,mysql,pytorch,tensorflow" />
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="100" height="100" style="background-color:white; border-radius:8px; padding:4px;" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,github,git,vscode,mysql,pytorch,tensorflow" />
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="150" height="130" style="background-color:white; border-radius:8px; padding:4px;" />
 </p>
 
 
