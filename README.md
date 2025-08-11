@@ -30,7 +30,7 @@
     style="vertical-align:middle; margin-left:8px;"
   />
   <img
-    src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/icons/matplotlib.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
     alt="Matplotlib"
     width="48" height="48"
     style="vertical-align:middle; margin-left:8px;"
@@ -48,7 +48,6 @@
     style="vertical-align:middle; margin-left:8px;"
   />
 </p>
-
 
 
 <!-- Typing animation (secondary intro) -->
