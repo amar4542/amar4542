@@ -16,8 +16,10 @@
 
 <!-- SKILL ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,sklearn,github,html,css,js,git,vscode,mysql,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,github,js,git,vscode,mysql,pytorch,tensorflow" />
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="48" height="48" style="background-color:white; border-radius:8px; padding:4px;" />
 </p>
+
 
 <!-- Typing animation (secondary intro) -->
 <p align="center">
