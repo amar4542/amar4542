@@ -14,8 +14,8 @@
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
 
-  <!-- Pandas -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80" height="40"/>  
+  <!-- Pandas (White Background Version) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas" width="80" height="40" style="background-color:white; padding:5px; border-radius:5px;"/>  
 
   <!-- NumPy -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="80" height="40"/>  
