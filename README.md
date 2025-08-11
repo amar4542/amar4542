@@ -24,9 +24,28 @@
     style="vertical-align:middle; margin-left:8px;"
   />
   <img
-    src="https://skillicons.dev/icons?i=numpy,keras"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+    alt="NumPy"
+    width="48" height="48"
     style="vertical-align:middle; margin-left:8px;"
-    alt="NumPy Keras"
+  />
+  <img
+    src="https://matplotlib.org/_static/images/logo2.svg"
+    alt="Matplotlib"
+    width="48" height="48"
+    style="vertical-align:middle; margin-left:8px;"
+  />
+  <img
+    src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"
+    alt="Seaborn"
+    width="80" height="40"
+    style="vertical-align:middle; margin-left:8px;"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=keras"
+    alt="Keras"
+    width="48" height="48"
+    style="vertical-align:middle; margin-left:8px;"
   />
 </p>
 
