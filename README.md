@@ -17,9 +17,17 @@
 <!-- SKILL ICONS -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,github,vscode,mysql,pytorch,tensorflow" />
-  <img src="https://pandas.org/images/logo.svg"alt="Pandas"width="48" height="48" style="vertical-align:middle;margin-left:8px;"/>
-  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="48" height="48" style="vertical-align:middle; margin-left:8px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="48" height="48" style="vertical-align:middle; margin-left:8px;" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+    alt="Pandas"
+    width="48" height="48"
+    style="vertical-align:middle; margin-left:8px;"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=numpy,keras"
+    style="vertical-align:middle; margin-left:8px;"
+    alt="NumPy Keras"
+  />
 </p>
 
 
