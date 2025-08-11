@@ -16,9 +16,9 @@
 
 <!-- SKILL ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,github,vscode,mysql,pytorch,tensorflow" />
-  <img src="https://raw.githubusercontent.com/conda-forge/pandas-feedstock/main/recipe/pandas_logo.svg" alt="Pandas" width="140" height="130" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,github,vscode,mysql,pytorch,tensorflow,keras,numpy,pandas" />
 </p>
+
 
 
 
