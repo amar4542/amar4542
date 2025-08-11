@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,12,21,30&text=Hey%20there,%20I'm%20Amar%20👋&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20|%20ML%20Enthusiast&descSize=18&descAlign=50" alt="Banner"/>
+  <img src="./assets/header.svg" alt="Amar — Data Analyst header" />
 </p>
 
 <!-- Typing animation (external service) -->
