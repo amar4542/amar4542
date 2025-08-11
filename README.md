@@ -1,7 +1,34 @@
-<!-- Premium Teal-Blue Tech GitHub Header -->
+<!-- 🌟 Ultra-Creative GitHub Profile Theme 🌟 -->
+
+<!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amar+👋;Data+Analyst+📊;ML+%26+AI+Enthusiast+🤖;Lifelong+Learner+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amar+👋;Data+Analyst+📊;ML+%26+AI+Enthusiast+🤖;Lifelong+Learner+📚" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🚀%20Welcome%20to%20My%20Profile!%20🚀&fontSize=30&fontColor=fff&animation=blink" />
+</p>
+
+<!-- CONTRIBUTION SNAKE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake-animation" />
+</p>
+
+<!-- SKILL ICONS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,sklearn,github,html,css,js,git,vscode,mysql&theme=light" />
+</p>
+
+<!-- TOP LANGUAGES CARD -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amar4542&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:0077FF&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=35&fontColor=ffffff" />
