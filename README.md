@@ -15,9 +15,18 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=🚀+Languages+%26+Tools+🛠️" alt="Typing Languages & Tools" />
-</p>
+<h2 align="center" style="font-family: 'Fira Code', monospace; font-size: 2.5rem; font-weight: bold; color: #00E0FF; position: relative; display: inline-block;">
+  🚀 Languages & Tools 🛠️
+  <span style="position: absolute; bottom: 0; left: 0; width: 100%; height: 4px; background: #00E0FF; animation: blink 1.5s infinite;"></span>
+</h2>
+
+<style>
+@keyframes blink {
+  0%, 100% {opacity: 1;}
+  50% {opacity: 0;}
+}
+</style>
+
 
 
 
