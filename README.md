@@ -1,15 +1,17 @@
-# Hi 👋, I'M MANGALA AMARA  
-### A Passionate Data enthusiast 
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6f00,100:ee4c2c&height=250&section=header&text=Hey%20there,%20I'm%20Amar%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+</p>
 
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
-
----
-
-### 💼 About Me
-- 📍 Based in **Andhra Pradesh, India**
-- 💼 Aspiring **Data Analyst** actively looking for exciting opportunities
-- 🏅 Completed **Google Cloud** and **Data Analytics** certifications
-- 🎓 Constant learner exploring the world of data and insights
+<!-- About Me -->
+## 💫 About Me
+```yaml
+Name: Mangala Amara
+Role: Data Analyst | ML Enthusiast
+Location: Andhra Pradesh, India
+Learning: PyTorch, TensorFlow, Keras
+Interests: Data Analytics, Machine Learning, Deep Learning
+Goal: To solve real-world problems with data and AI
 
 ---
 ### 🧰 Languages & Tools:
