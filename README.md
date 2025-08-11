@@ -1,19 +1,26 @@
-<!-- Banner -->
+<!-- 🎯 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6f00,100:ee4c2c&height=250&section=header&text=Hey%20there,%20I'm%20Amar%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,12,21,30&text=Hey%20there,%20I'm%20Amar%20👋&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20|%20ML%20Enthusiast%20|%20AI%20Explorer&descSize=20&descAlign=50&descAlignY=65" alt="Banner"/>
 </p>
 
-<!-- About Me -->
+---
 
-## 💫 About Me
-Name: Mangala Amara
-Role: Data Analyst | ML Enthusiast
-Location: Andhra Pradesh, India
-Learning: PyTorch, TensorFlow, Keras
-Interests: Data Analytics, Machine Learning, Deep Learning
-Goal: To solve real-world problems with data and AI
+<!-- ✨ About Me  -->
+## 💫 About Me  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6F00&center=true&vCenter=true&width=600&lines=👨‍💻+Data+Analyst+and+Machine+Learning+Enthusiast;🚀+Exploring+AI+and+Deep+Learning;📊+Turning+Data+into+Actionable+Insights;🌍+Solving+Real+World+Problems+with+Data" alt="Typing SVG"/>
+</p>
+
+- **Name:** Mangala Amara  
+- **Role:** Data Analyst | ML Enthusiast  
+- **Location:** Andhra Pradesh, India  
+- **Learning:** PyTorch, TensorFlow, Keras  
+- **Interests:** Data Analytics, Machine Learning, Deep Learning  
+- **Goal:** To solve real-world problems with data and AI  
 
 ---
+
 ## 🛠 Languages & Tools  
 
 <p align="left">
@@ -22,29 +29,33 @@ Goal: To solve real-world problems with data and AI
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>  
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/assets/excel.svg" alt="Excel" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/amar4542/amar4542/main/assets/excel.svg" alt="Excel" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/>  
 </p>
 
+---
 
 ### 📌 Projects & Dashboards
 
-- [🌼 Iris Flower_Classification](https://github.com/amar4542/Iris-Dataset)
-- [🚢 Modern ship survival prediction](https://github.com/amar4542/Titanic-Survival-Prediction)
-- [ Diversity and inclusion dashboard using PowerBI](https://github.com/amar4542/Diversity-Inclusion)
-- [🏏 IPL Data analysis dashboard using PowerBI](https://github.com/amar4542/IPL-Data-Analysis)
-- .[💹 Time series analysis with Cryptocurrency using PowerBI](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency).
+- [🌼 Iris Flower Classification](https://github.com/amar4542/Iris-Dataset)  
+- [🚢 Modern Ship Survival Prediction](https://github.com/amar4542/Titanic-Survival-Prediction)  
+- [📊 Diversity & Inclusion Dashboard (Power BI)](https://github.com/amar4542/Diversity-Inclusion)  
+- [🏏 IPL Data Analysis Dashboard (Power BI)](https://github.com/amar4542/IPL-Data-Analysis)  
+- [💹 Time Series Analysis with Cryptocurrency (Power BI)](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency)  
 
 ---
 
-### 📬 Connect with Me
+### 📬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/m-amara-4542m/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mangalaamara282@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/m-amara-4542m/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mangalaamara282@gmail.com)  
+
 ---
+
 ### 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=amar-1999&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=amar4542&label=Profile%20views&color=0e75b6&style=flat)
+
