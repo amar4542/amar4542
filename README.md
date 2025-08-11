@@ -30,15 +30,15 @@
     style="vertical-align:middle; margin-left:8px;"
   />
   <img
-    src="https://matplotlib.org/_static/images/logo2.svg"
+    src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/icons/matplotlib.svg"
     alt="Matplotlib"
     width="48" height="48"
     style="vertical-align:middle; margin-left:8px;"
   />
   <img
-    src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"
+    src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg"
     alt="Seaborn"
-    width="80" height="40"
+    width="48" height="48"
     style="vertical-align:middle; margin-left:8px;"
   />
   <img
