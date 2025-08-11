@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:0055FF&height=60&section=header&text=🛠%20Languages%20%26%20Tools&fontSize=28&fontColor=fff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=🚀+Languages+%26+Tools+🛠️" alt="Typing Languages & Tools" />
 </p>
 
 <!-- SKILL ICONS -->
