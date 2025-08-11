@@ -16,49 +16,46 @@
 
 
 <h2 align="center" style="font-family: 'Fira Code', monospace; font-size: 2.5rem; font-weight: bold; color: #00E0FF; position: relative; display: inline-block;">
-  🚀 Languages & Tools 🛠️
+  🚀 Languages & Tools 🛠
   <span style="position: absolute; bottom: 0; left: 0; width: 100%; height: 4px; background: #00E0FF; animation: blink 1.5s infinite;"></span>
 </h2>
 
 
-<!-- SKILL ICONS with floating + waving animations -->
+
+<!-- SKILL ICONS -->
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,sklearn,github,vscode,mysql,pytorch,tensorflow"
-    style="animation: floatWave 4s ease-in-out infinite; margin-right: 8px;"
-  />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,github,vscode,mysql,pytorch,tensorflow" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
     alt="Pandas"
     width="48" height="48"
-    style="vertical-align:middle; margin-left:8px; animation: floatWave 4s ease-in-out infinite;"
+    style="vertical-align:middle; margin-left:8px;"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
     alt="NumPy"
     width="48" height="48"
-    style="vertical-align:middle; margin-left:8px; animation: floatWave 4s ease-in-out infinite;"
+    style="vertical-align:middle; margin-left:8px;"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
     alt="Matplotlib"
     width="48" height="48"
-    style="vertical-align:middle; margin-left:8px; animation: floatWave 4s ease-in-out infinite;"
+    style="vertical-align:middle; margin-left:8px;"
   />
   <img
     src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg"
     alt="Seaborn"
     width="48" height="48"
-    style="vertical-align:middle; margin-left:8px; animation: floatWave 4s ease-in-out infinite;"
+    style="vertical-align:middle; margin-left:8px;"
   />
   <img
     src="https://skillicons.dev/icons?i=keras"
     alt="Keras"
     width="48" height="48"
-    style="vertical-align:middle; margin-left:8px; animation: floatWave 4s ease-in-out infinite;"
+    style="vertical-align:middle; margin-left:8px;"
   />
 </p>
-
 
 
 <!-- Typing animation (secondary intro) -->
