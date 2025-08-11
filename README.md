@@ -4,8 +4,8 @@
 </p>
 
 <!-- About Me -->
+
 ## 💫 About Me
-```yaml
 Name: Mangala Amara
 Role: Data Analyst | ML Enthusiast
 Location: Andhra Pradesh, India
