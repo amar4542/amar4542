@@ -8,13 +8,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FF6F00&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+ML+Enthusiast;Exploring+AI+and+Deep+Learning;Turning+Data+into+Actionable+Insights" alt="Typing SVG"/>
 </p>
 
-## 🛠 Languages & Tools
+## 🛠 Languages & Tools  
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  <!-- other icons... -->
-  <img src="./assets/excel.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>  
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="50"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/amar4542/amar4542/main/assets/excel.svg" alt="Excel" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/>  
 </p>
+
 
 ---
 
