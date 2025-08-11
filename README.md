@@ -1,5 +1,38 @@
+<!-- Creative Animated Intro -->
 <p align="center">
-  <img src="./assets/header.svg" alt="Amar — Data Analyst header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Amar+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+ML;Turning+Data+into+Insights" alt="Typing SVG" />
+</p>
+
+<!-- Tech Stack Icons with Hover Zoom -->
+<p align="center">
+
+  <!-- Excel -->
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Excel_2013-2019_logo.svg" 
+         alt="Excel" width="50" height="50"
+         style="transition: transform 0.2s; display:inline-block;"
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <!-- Pandas -->
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" 
+         alt="Pandas" width="50" height="50"
+         style="background-color:white; border-radius:8px; padding:4px; transition: transform 0.2s; display:inline-block;"
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <!-- NumPy -->
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" 
+         alt="NumPy" width="50" height="50"
+         style="transition: transform 0.2s; display:inline-block;"
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
 </p>
 
 <!-- Typing animation (external service) -->
