@@ -21,9 +21,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>   
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/>  
-  <img src="./assets/pandas.svg" alt="Pandas" width="40" height="40" />
-  <img src="./assets/numpy.svg" alt="NumPy" width="40" height="40" />
-  <img src="./assets/excel.svg" alt="Excel" width="40" height="40" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="80" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>  
 </p>
 
 
