@@ -96,8 +96,9 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F5D4&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;See+you+again+soon!;Happy+Coding+💻" />
+  <img src="https://komarev.com/ghpvc/?username=amar4542&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 
 
