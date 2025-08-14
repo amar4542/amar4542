@@ -75,19 +75,31 @@
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/amar4542" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40px" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/m-amara-4542m/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="LinkedIn" />
-  </a>
+<style>
+.icon-container img {
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.icon-container img:hover {
+  transform: scale(1.15);
+  box-shadow: 0 0 15px #00f5d4;
+}
+</style>
+
+<p align="center" class="icon-container">
   <a href="mailto:mangalaamara282@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40px" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="48px" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-amara-4542m/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/amar4542">
+    <img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub" />
   </a>
 </p>
+
 
 
 ---
