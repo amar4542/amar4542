@@ -5,9 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amar+👋;Data+Analyst+📊;ML+%26+AI+Enthusiast+🤖;Lifelong+Learner+📚" alt="Typing SVG" />
 </h1>
 
+<h1 align="center">🔍 Data Enthusiast | Insight Hunter | Analyst</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:0077FF&height=120&section=header&text=🚀%20Welcome%20to%20My%20Profile!%20🚀&fontSize=30&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 </p>
+
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
