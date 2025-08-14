@@ -96,7 +96,30 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Tiny Warrior Running" width="120">
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ground line -->
+  <line x1="0" y1="80" x2="400" y2="80" stroke="gray" stroke-width="2"/>
+  
+  <!-- Warrior (stickman style) -->
+  <g id="warrior" fill="none" stroke="black" stroke-width="2">
+    <circle cx="10" cy="10" r="5" fill="black"/> <!-- head -->
+    <line x1="10" y1="15" x2="10" y2="30"/> <!-- body -->
+    <line x1="10" y1="20" x2="0" y2="25"/> <!-- left arm -->
+    <line x1="10" y1="20" x2="20" y2="25"/> <!-- right arm -->
+    <line x1="10" y1="30" x2="0" y2="40"/> <!-- left leg -->
+    <line x1="10" y1="30" x2="20" y2="40"/> <!-- right leg -->
+  </g>
+
+  <!-- Animation path -->
+  <path id="path" d="M 0 60 Q 200 60 400 60" fill="none" stroke="none"/>
+  
+  <!-- Animate warrior along path -->
+  <use href="#warrior">
+    <animateMotion dur="4s" repeatCount="indefinite" alternate="yes">
+      <mpath href="#path"/>
+    </animateMotion>
+  </use>
+</svg>
 </p>
 
 
