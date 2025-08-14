@@ -75,31 +75,19 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect  
 
-<style>
-.icon-container img {
-  border-radius: 12px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-.icon-container img:hover {
-  transform: scale(1.15);
-  box-shadow: 0 0 15px #00f5d4;
-}
-</style>
-
-<p align="center" class="icon-container">
-  <a href="mailto:mangalaamara282@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48px" alt="Gmail" />
+<p align="left">
+  <a href="mailto:mangalaamara282@gmail.com" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="48" height="48" style="border-radius:12px; transition:transform 0.3s ease;"/>
   </a>
-  <a href="https://www.linkedin.com/in/m-amara-4542m/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/m-amara-4542m/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" height="48" style="border-radius:12px; transition:transform 0.3s ease;"/>
   </a>
-  <a href="https://github.com/amar4542">
-    <img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub" />
+  <a href="https://github.com/amar4542" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" width="48" height="48" style="border-radius:12px; background-color:#fff; transition:transform 0.3s ease;"/>
   </a>
 </p>
-
 
 
 ---
