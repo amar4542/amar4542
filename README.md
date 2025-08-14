@@ -75,18 +75,11 @@
 
 ---
 
-## 🤝 Let's Connect  
-
-<p align="left">
-  <a href="mailto:mangalaamara282@gmail.com" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="48" height="48" style="border-radius:12px; transition:transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/m-amara-4542m/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" height="48" style="border-radius:12px; transition:transform 0.3s ease;"/>
-  </a>
-  <a href="https://github.com/amar4542" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" width="48" height="48" style="border-radius:12px; background-color:#fff; transition:transform 0.3s ease;"/>
-  </a>
+## 🤝 Let’s Connect
+<p align="center">
+  <a href="mailto:mangalaamara282@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/m-amara-4542m/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/amar4542"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 
