@@ -96,6 +96,7 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="assets/warrior-orbit.svg" width="110" alt="Tiny warrior orbit animation"/>
+  <img src="assets/warrior-run.svg" width="200" alt="Tiny Warrior Running"/>
 </p>
+
 
