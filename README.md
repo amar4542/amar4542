@@ -96,5 +96,6 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:0077FF&height=120&section=footer" />
+  <img src="assets/warrior-orbit.svg" width="110" alt="Tiny warrior orbit animation"/>
 </p>
+
