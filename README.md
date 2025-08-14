@@ -96,8 +96,9 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="warrior.svg" alt="Warrior Animation" width="400">
+  <img src="assets/warrior.gif" alt="Warrior Running" width="120" />
 </p>
+
 
 
 
