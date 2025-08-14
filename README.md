@@ -5,10 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amar+👋;Data+Analyst+📊;ML+%26+AI+Enthusiast+🤖;Lifelong+Learner+📚" alt="Typing SVG" />
 </h1>
 
-<h1 align="center">🔍 Data Enthusiast | Insight Hunter | Analyst</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Amar+👋;Data+Analyst+%7C+Machine+Learning+Explorer;Transforming+Data+into+Actionable+Insights;Turning+Numbers+into+Stories" alt="Typing Animation"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:00BBF9&height=120&section=header&text=Welcome+to+Amar's+World+of+Data&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 
 
 <!-- CONTRIBUTION SNAKE -->
