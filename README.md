@@ -96,7 +96,8 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="assets/warrior-run.svg" width="200" alt="Tiny Warrior Running"/>
+  <img src="https://i.gifer.com/7VE.gif" alt="Tiny Warrior Running" width="120">
 </p>
+
 
 
