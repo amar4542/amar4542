@@ -20,15 +20,6 @@
   <span style="position: absolute; bottom: 0; left: 0; width: 100%; height: 4px; background: #00E0FF; animation: blink 1.5s infinite;"></span>
 </h2>
 
-<style>
-@keyframes blink {
-  0%, 100% {opacity: 1;}
-  50% {opacity: 0;}
-}
-</style>
-
-
-
 
 <!-- SKILL ICONS -->
 <p align="center">
