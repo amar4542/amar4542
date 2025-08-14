@@ -96,7 +96,7 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="assets/warrior.gif" alt="Warrior Running" width="120" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F5D4&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;See+you+again+soon!;Happy+Coding+💻" />
 </p>
 
 
