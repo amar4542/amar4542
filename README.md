@@ -75,10 +75,20 @@
 
 ---
 
-## 📬 Connect with Me  
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/m-amara-4542m/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mangalaamara282@gmail.com)  
+<p align="center">
+  <a href="https://github.com/amar4542" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40px" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-amara-4542m/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mangalaamara282@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40px" alt="Gmail" />
+  </a>
+</p>
+
 
 ---
 
