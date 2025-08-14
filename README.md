@@ -96,8 +96,11 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amar4542&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
+  <br>
+  <b>See you soon!</b>
 </p>
+
 
 
 
