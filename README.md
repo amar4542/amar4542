@@ -6,14 +6,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Amar+👋"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:0077FF&height=120&section=header&text=🚀%20Welcome%20to%20My%20Profile!%20🚀&fontSize=30&fontColor=fff" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:00BBF9&height=120&section=header&text=Welcome+to+Amar's+World+of+Data&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
@@ -25,6 +19,14 @@
   🚀 Languages & Tools 🛠
   <span style="position: absolute; bottom: 0; left: 0; width: 100%; height: 4px; background: #00E0FF; animation: blink 1.5s infinite;"></span>
 </h2>
+
+<style>
+@keyframes blink {
+  0%, 100% {opacity: 1;}
+  50% {opacity: 0;}
+}
+</style>
+
 
 
 
