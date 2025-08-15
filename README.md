@@ -24,11 +24,8 @@
 
 **Constant Learner:** LLMs & Big Data  
 **Interests:** Data Science  
-
-## 📬 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangalaamara282@gmail.com)
-
-## 📄 Know More About Me
+**How to Reach Me :** mangalaamara282@gmail.com
+**Know More About Me :**
 [![Resume](https://img.shields.io/badge/Resume-4B8BBE?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1S8kdz03vg53me6WNN4TnFz12ofyKURH8/view)
 
 <!-- SKILL ICONS -->
