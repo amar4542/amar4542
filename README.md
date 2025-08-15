@@ -13,18 +13,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake-animation" />
 </p>
----
 
 ## 👋 About Me
 
 **Constant Learner:** LLMs & Big Data  
 **Interests:** Data Science  
-**How to Reach Me :** mangalaamara282@gmail.com 
+**How to Reach Me :** mangalaamara282@gmail.com                                                                                                                              
 **Know More About Me :**
 
 [![Resume](https://img.shields.io/badge/Resume-4B8BBE?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1S8kdz03vg53me6WNN4TnFz12ofyKURH8/view)
 
----
 
 <h2 align="center" style="font-family: 'Fira Code', monospace; font-size: 2.5rem; font-weight: bold; color: #00E0FF; position: relative; display: inline-block;">
   🚀 Languages & Tools 🛠
