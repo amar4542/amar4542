@@ -24,7 +24,7 @@
 
 **Constant Learner:** LLMs & Big Data  
 **Interests:** Data Science  
-**How to Reach Me :** mangalaamara282@gmail.com 
+**How to Reach Me :** mangalaamara282@gmail.com \n
 **Know More About Me :**
 [![Resume](https://img.shields.io/badge/Resume-4B8BBE?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1S8kdz03vg53me6WNN4TnFz12ofyKURH8/view)
 
