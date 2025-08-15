@@ -20,6 +20,11 @@
   <span style="position: absolute; bottom: 0; left: 0; width: 100%; height: 4px; background: #00E0FF; animation: blink 1.5s infinite;"></span>
 </h2>
 
+**About Me :** Contsant Learner
+**Interests :** LLM's and Big Data
+**How To Reach me :** mangalaamara282@gmail.com
+**Know more about me :**[Resume]('https://drive.google.com/file/d/1S8kdz03vg53me6WNN4TnFz12ofyKURH8/view')
+
 
 <!-- SKILL ICONS -->
 <p align="center">
