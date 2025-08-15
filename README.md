@@ -63,11 +63,14 @@
 </p>
 
 ---
-## My Coding Profiles
+## 💻 My Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-333333?style=for-the-badge&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/mangalaamara282) 
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=orange)](https://www.codechef.com/users/amar4542)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amar4542/)
+
 
 
 ## 📌 Featured Projects & Dashboards  
