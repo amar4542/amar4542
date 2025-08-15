@@ -19,15 +19,17 @@
   🚀 Languages & Tools 🛠
   <span style="position: absolute; bottom: 0; left: 0; width: 100%; height: 4px; background: #00E0FF; animation: blink 1.5s infinite;"></span>
 </h2>
-
+---
 ## 👋 About Me
 
 **Constant Learner:** LLMs & Big Data  
 **Interests:** Data Science  
-**How to Reach Me :** mangalaamara282@gmail.com \n
+**How to Reach Me :** mangalaamara282@gmail.com 
+
 **Know More About Me :**
 [![Resume](https://img.shields.io/badge/Resume-4B8BBE?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1S8kdz03vg53me6WNN4TnFz12ofyKURH8/view)
 
+---
 <!-- SKILL ICONS -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,github,vscode,mysql,pytorch,tensorflow" />
