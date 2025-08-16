@@ -62,8 +62,7 @@
     width="48" height="48"
     style="vertical-align:middle; margin-left:8px;"
   />
-   <img src="https://keras.io/img/logo.png" alt="Keras" width="60"/>
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60"/>
 </p>
 
 
