@@ -83,8 +83,8 @@
 - [📊 Business Sales Dashboard](https://github.com/amar4542/Business-Sales)
 - [🚢 Modern Ship Survival Prediction](https://github.com/amar4542/Titanic-Survival-Prediction)  
 - [📊 Diversity & Inclusion Dashboard (Power BI)](https://github.com/amar4542/Diversity-Inclusion)  
-- [🏏 IPL Data Analysis Dashboard (Power BI)](https://github.com/amar4542/IPL-Data-Analysis)  
-- [💹 Cryptocurrency Time Series Analysis (Power BI)](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency)  
+- [🏏 IPL Data Analysis Dashboard ](https://github.com/amar4542/IPL-Data-Analysis)  
+- [💹 Time Series Analysis with Crypto-Currency](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency)  
 
 ---
 
