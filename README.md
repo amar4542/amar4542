@@ -80,7 +80,7 @@
 
 [![Iris Flower Classification](https://img.shields.io/badge/Iris%20Flower-Classification-ff69b4?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/amar4542/Iris-Flower-Classification)
 
-[![Business Sales Dashboard](https://img.shields.io/badge/Business-Sales%20Dashboard-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/amar4542/Business-Sales-Dashboard)
+[![Business Sales Dashboard](https://img.shields.io/badge/Business-Sales%20Dashboard-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/amar4542/Future_ds_01)
 
 [![Modern Ship Survival Prediction](https://img.shields.io/badge/Modern%20Ship-Survival%20Prediction-red?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amar4542/Modern-Ship-Survival)
 
