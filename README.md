@@ -89,8 +89,14 @@
 [![IPL Data Analysis Dashboard](https://img.shields.io/badge/IPL-Data%20Analysis%20Dashboard-orange?style=for-the-badge&logo=cricket&logoColor=white)](https://github.com/amar4542/IPL-Analysis)
 
 [![Time Series with Crypto](https://img.shields.io/badge/Time%20Series-Crypto%20Currency-00c8ff?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/amar4542/Crypto-TimeSeries)
- 
 
+<div align="left">
+
+<img src="https://img.shields.io/badge/📊 SOCIAL MEDIA CAMPAIGN-PERFORMANCE TRACKER-blueviolet?style=for-the-badge&logo=powerbi&logoColor=white"/> <a href="https://github.com/amar4542/social-media-campaign-tracker"><img src="https://img.shields.io/badge/DASHBOARD-VISUALIZATION-blue?style=for-the-badge"/></a>
+
+</div>
+
+ 
 ---
 
 ## 🤝 Let’s Connect
