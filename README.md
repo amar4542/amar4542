@@ -90,7 +90,7 @@
 
 [![Time Series with Crypto](https://img.shields.io/badge/Time%20Series-Crypto%20Currency-00c8ff?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/amar4542/Crypto-TimeSeries)
 
-[![SOCIAL_MEDIA CAMPAIGN-PERFORMANCE TRACKER](https://img.shields.io/badge/📊%20SOCIAL_MEDIA_CAMPAIGN--PERFORMANCE_TRACKER-blueviolet?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/amar4542/Future_DS_02)
+[![SOCIAL_MEDIA CAMPAIGN-PERFORMANCE TRACKER](https://img.shields.io/badge/SocialMedia%20Campaign-Performance%20Tracker-blueviolet?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/amar4542/Future_DS_02)
 
 
 ---
