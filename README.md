@@ -82,7 +82,7 @@
 
 [![Business Sales Dashboard](https://img.shields.io/badge/Business-Sales%20Dashboard-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/amar4542/Future_ds_01)
 
-[![Modern Ship Survival Prediction](https://img.shields.io/badge/Modern%20Ship-Survival%20Prediction-red?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amar4542/Modern-Ship-Survival)
+[![Modern Ship Survival Prediction](https://img.shields.io/badge/Modern%20Ship-Survival%20Prediction-Lavender?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amar4542/Modern-Ship-Survival)
 
 [![Diversity & Inclusion Dashboard](https://img.shields.io/badge/Diversity%20%26%20Inclusion-Dashboard-brightgreen?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Diversity-Inclusion-Dashboard)
 
