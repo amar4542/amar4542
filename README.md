@@ -102,6 +102,7 @@
   <a href="mailto:mangalaamara282@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://www.linkedin.com/in/m-amara-4542m/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/amar4542"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.reddit.com/u/Dataaenthusiast/s/FTMBLYW13t"><img src="https://skillicons.dev/icons?i=reddit" height="40"/></a>
 </p>
 
 
