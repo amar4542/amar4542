@@ -84,7 +84,7 @@
 
 [![Modern Ship Survival Prediction](https://img.shields.io/badge/Modern%20Ship-Survival%20Prediction-%23DC143C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amar4542/Modern-Ship-Survival)
 
-[![Diversity & Inclusion Dashboard](https://img.shields.io/badge/Diversity%20%26%20Inclusion-Dashboard-brightgreen?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Diversity-Inclusion-Dashboard)
+[![Diversity & Inclusion Dashboard](https://img.shields.io/badge/Diversity%20%26%20Inclusion-Dashboard-brightgreen?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Diversity-Inclusion)
 
 [![IPL Data Analysis Dashboard](https://img.shields.io/badge/IPL-Data%20Analysis%20Dashboard-orange?style=for-the-badge&logo=cricket&logoColor=white)](https://github.com/amar4542/IPL-Analysis)
 
