@@ -104,7 +104,6 @@
   <a href="https://github.com/amar4542"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <a href="https://www.reddit.com/u/Dataaenthusiast/s/FTMBLYW13t"><img src="https://cdn.simpleicons.org/reddit/FF4500" height="40"/></a>
 </p>
----
 
 ## 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=amar4542&label=Profile%20views&color=0e75b6&style=flat)
