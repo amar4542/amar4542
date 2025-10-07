@@ -82,13 +82,13 @@
 
 [![Business Sales Dashboard](https://img.shields.io/badge/Business-Sales%20Dashboard-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/amar4542/Future_ds_01)
 
-[![Modern Ship Survival Prediction](https://img.shields.io/badge/Modern%20Ship-Survival%20Prediction-%23DC143C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amar4542/Modern-Ship-Survival)
+[![Modern Ship Survival Prediction](https://img.shields.io/badge/Modern%20Ship-Survival%20Prediction-%23DC143C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amar4542/Modern-ship-Survival-Prediction)
 
 [![Diversity & Inclusion Dashboard](https://img.shields.io/badge/Diversity%20%26%20Inclusion-Dashboard-brightgreen?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Diversity-Inclusion)
 
-[![IPL Data Analysis Dashboard](https://img.shields.io/badge/IPL-Data%20Analysis%20Dashboard-orange?style=for-the-badge&logo=cricket&logoColor=white)](https://github.com/amar4542/IPL-Analysis)
+[![IPL Data Analysis Dashboard](https://img.shields.io/badge/IPL-Data%20Analysis%20Dashboard-orange?style=for-the-badge&logo=cricket&logoColor=white)](https://github.com/amar4542/IPL-Data-Analysis)
 
-[![Time Series with Crypto](https://img.shields.io/badge/Time%20Series-Crypto%20Currency-00c8ff?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/amar4542/Crypto-TimeSeries)
+[![Time Series with Crypto](https://img.shields.io/badge/Time%20Series-Crypto%20Currency-00c8ff?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency)
 
 [![SOCIAL_MEDIA CAMPAIGN-PERFORMANCE TRACKER](https://img.shields.io/badge/SocialMedia%20Campaign-Performance%20Tracker-blueviolet?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/amar4542/Future_DS_02)
 
