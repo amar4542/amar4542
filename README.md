@@ -21,7 +21,7 @@
 **How to Reach Me :** mangalaamara282@gmail.com                                                                                                                              
 **Know More About Me :**
 
-[![Resume](https://img.shields.io/badge/Resume-4B8BBE?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1S8kdz03vg53me6WNN4TnFz12ofyKURH8/view)
+[![Resume](https://img.shields.io/badge/Resume-4B8BBE?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1-BHIN612b9jxdHlHgFj6fO-vhKUcQlUE/view?usp=drivesdk)
 
 
 <h2 align="center" style="font-family: 'Fira Code', monospace; font-size: 2.5rem; font-weight: bold; color: #00E0FF; position: relative; display: inline-block;">
