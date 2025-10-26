@@ -103,6 +103,7 @@
   <a href="https://www.linkedin.com/in/m-amara-4542m/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/amar4542"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <a href="https://www.reddit.com/u/Dataaenthusiast/s/FTMBLYW13t"><img src="https://cdn.simpleicons.org/reddit/FF4500" height="40"/></a>
+  <a href="https://discord.gg/stark_4542"><img src="https://cdn.simpleicons.org/discord/5865F2" height="40"/></a>
 </p>
 
 ## 👀 Profile Views  
