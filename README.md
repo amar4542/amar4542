@@ -94,7 +94,7 @@
 
 [![Student Feedback Project](https://img.shields.io/badge/Student%20Feedback-Survey%20Analysis-191970?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/amar4542/Future_DS_03)
 
-[![Pizza Sales Analysis](https://img.shields.io/badge/🍕%20Pizza%20Sales-Performance%20Tracker-gold?style=for-the-badge&logoColor=white)](https://github.com/amar4542/Pizza-Sales/tree/main)
+[![Pizza Sales Analysis](https://img.shields.io/badge/🍕%20Pizza%20Sales-Performance%20Tracker-pastelgreen?style=for-the-badge&logoColor=white)](https://github.com/amar4542/Pizza-Sales/tree/main)
 
 
 
