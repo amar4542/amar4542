@@ -75,8 +75,6 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amar4542/)
 
-[![Datalemur](https://img.shields.io/badge/Datalemur-333333?style=for-the-badge&logo=github&logoColor=white&label=🐒)](https://datalemur.com/MAmara/)
-
 
 ## 📌 Featured Projects & Dashboards  
 
