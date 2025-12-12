@@ -78,6 +78,8 @@
 
 ## 📌 Featured Projects & Dashboards  
 
+[![E-Commerce Data Analysis](https://img.shields.io/badge/🛒%20E--Commerce%20Analysis-SQL%20%7C%20Python%20Project-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amar4542/E-Commerce)
+
 [![Iris Flower Classification](https://img.shields.io/badge/Iris%20Flower-Classification-ff69b4?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/amar4542/Iris-Flower-Classification)
 
 [![Business Sales Dashboard](https://img.shields.io/badge/Business-Sales%20Dashboard-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/amar4542/Future_ds_01)
