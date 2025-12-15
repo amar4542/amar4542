@@ -80,7 +80,7 @@
 
 [![E-Commerce Data Analysis](https://img.shields.io/badge/🛒%20E--Commerce%20Analysis-Data%20Insights%20Project-magenta?style=for-the-badge&logo=google-analytics&logoColor=white)](https://github.com/amar4542/E-Commerce)
 
-[![Customer Churn Analysis](https://img.shields.io/badge/Customer%20Churn-Analysis%20Dashboard-4f46e5?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/amar4542/Churn-Analysis)
+[![Customer Churn Analysis](https://img.shields.io/badge/Customer%20Churn-Analysis%20Dashboard-0a9396?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/amar4542/Churn-Analysis)
 
 [![Time Series with Crypto](https://img.shields.io/badge/Time%20Series-Crypto%20Currency-00c8ff?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency)
 
